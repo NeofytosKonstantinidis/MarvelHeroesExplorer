@@ -1,0 +1,2 @@
+1,talkingtothemoon,3m21s,talkingtothemoon,bruno mars singing,bruno Mars,Tue Mar 23 12:00:00 EET 2004,3,HD,mp3
+2,funnyvideo,1m33s,funnyvideo,recorded video by phone,Me,Tue Mar 23 12:00:00 EET 2004,3,HD,mp4
